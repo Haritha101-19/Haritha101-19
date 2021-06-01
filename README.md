@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haritha101-19
+- 👋 Hi, I’m @Haritha
 - 👀 I’m interested in Web designing. 
 - 🌱 I’m currently learning Front-end web development. 
 - 💞️ I’m looking to collaborate on friendly guidence. 
