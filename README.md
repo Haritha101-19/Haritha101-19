@@ -1,4 +1,5 @@
 ![Github Gipy](https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif)
+![](https://64.media.tumblr.com/tumblr_ls4d3w5Jx61qazhhpo1_400.gifv)
 
 
 
@@ -11,7 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Haritha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-haritha-v-629aa9184/) [![Mail Badge](https://img.shields.io/badge/-@Haritha-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/soul_on_capture/) [![Mail Badge](https://img.shields.io/badge/-Haritha-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:harithavenkatesh19@gmail.com)
 
 ## Languages
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-F4733A?style=for-the-badge&labelColor=black&logo=html&logoColor=f4733a)] [![CSS Badge](https://img.shields.io/badge/-CSS-3AB7F4?style=for-the-badge&labelColor=black&logo=css&logoColor=3ab7f4)]
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat&logoWidth=20)](#) [![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat&logoWidth=20)](#)[!Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat&logoWidth=20)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?logo=javascript&logoColor=F0DB4F&logoWidth=30)](#)[![React Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30)] 
 
 
 
