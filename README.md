@@ -1,5 +1,6 @@
   <!--![Github Gipy](https://64.media.tumblr.com/tumblr_ls4d3w5Jx61qazhhpo1_400.gifv)-->
   <img src="https://64.media.tumblr.com/tumblr_ls4d3w5Jx61qazhhpo1_400.gifv"/>
+  <img src="https://www.hannahmay.dev/media/Yogocat_animation.gif"/>
 
 
 ## Hi I'm Haritha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
@@ -7,7 +8,7 @@
 - 🌱 I’m currently learning Front-end web development. 
 - 💞️ I’m looking to collaborate on friendly guidence.
 
-##Reach out to me by
+## Reach out to me by
 [![Linkedin Badge](https://img.shields.io/badge/-Venkata%20Haritha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-haritha-v-629aa9184/) [![Instagram Badge](https://img.shields.io/badge/-HaritzMobilography-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/soul_on_capture/) [![Mail Badge](https://img.shields.io/badge/-Haritha-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:harithavenkatesh19@gmail.com)
 
 ## Languages
