@@ -1,5 +1,5 @@
-  ![Github Gipy](https://64.media.tumblr.com/tumblr_ls4d3w5Jx61qazhhpo1_400.gifv)
-  <img src="https://64.media.tumblr.com/tumblr_ls4d3w5Jx61qazhhpo1_400.gifv" width="500" height="500"/>
+  <!--![Github Gipy](https://64.media.tumblr.com/tumblr_ls4d3w5Jx61qazhhpo1_400.gifv)-->
+  <img src="https://64.media.tumblr.com/tumblr_ls4d3w5Jx61qazhhpo1_400.gifv" width="500px" height="200px"/>
 
 
 ## Hi I'm Haritha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
