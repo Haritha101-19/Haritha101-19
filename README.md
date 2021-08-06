@@ -15,7 +15,8 @@
 [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat&logoWidth=20)](#)  [![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat&logoWidth=20)](#)  [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat&logoWidth=20)](#)  [![Javascript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=white&style=flat&logoWidth=20)](#)  [![React Badge](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat&logoWidth=20)](#)
 
 
-
+### Profile Visits
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Haritha101-19.Haritha101-19)
 
 <!---
 Haritha101-19/Haritha101-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
